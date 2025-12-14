@@ -4,7 +4,7 @@ Hi there 👋, I'm Nisha Khandelwal
 
 👩‍💻 About Me
 
-Final-year CSE student passionate about building real-world, problem-solving projects
+Third-year CSE student passionate about building real-world, problem-solving projects
 
 Interested in software engineering, system design, and applied AI
 
