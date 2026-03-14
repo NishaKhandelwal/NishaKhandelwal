@@ -42,11 +42,5 @@ Operating Systems
 
 Software Engineering (SRS, SDLC, Spiral Model)
 
-Automata Theory (Regex → DFA)
 
-📌 Featured Projects
-
-🔹 Games & Mini Projects
-
-Blackjack Game (Python)
 
