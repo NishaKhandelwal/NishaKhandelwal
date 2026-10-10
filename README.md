@@ -98,7 +98,7 @@ I enjoy sharing knowledge, collaborating with teammates, exploring new ideas, an
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Nisha Khandelwal]([https://www.linkedin.com/](https://www.linkedin.com/in/nisha-khandelwal/))
+- 💼 LinkedIn: [Nisha Khandelwal](https://www.linkedin.com/in/nisha-khandelwal/)
 
 ---
 
